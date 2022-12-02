@@ -1,3 +1,3 @@
 # Sudoku-Solver
 
-This program uses backtracking and recusrsion to solve a sudoku puzzle.
+This program uses backtracking and recursion to solve a sudoku puzzle.
